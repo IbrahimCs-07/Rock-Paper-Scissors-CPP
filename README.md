@@ -1,6 +1,3 @@
-# Rock-Paper-Scissors-CPP
-A classic console-based Rock-Paper-Scissors game built in C++ with round tracking, score management, and modular functions.
-
 # ✊✋✌️ Rock-Paper-Scissors Game (C++)
 
 A robust, console-based **Rock-Paper-Scissors** game built using **C++**. This project is designed following clean modular programming principles, leveraging `struct` data encapsulation, enumerations (`enum`), and structured game-loop logic to deliver an interactive gaming experience with automated score tracking.
